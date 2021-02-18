@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [DesuBot](https://github.com/house-of-vanity/desubot)
 
-- 🌱 I’m currently learning **Rust**
-
-- 💬 Ask me about **Python,**
+- 🌱 I’m currently learning **Rust**, **Python**
 
 - 📫 How to reach me **Telegram: @ultradesu**
 
