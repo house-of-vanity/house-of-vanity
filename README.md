@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on [DesuBot](https://github.com/house-of-vanity/desubot), [Wireguard-Peer-Manager](https://github.com/house-of-vanity/Wireguard-Peer-Manager), [Gaspar](https://github.com/house-of-vanity/gaspar)
 
-- 🌱 I’m currently learning **Rust**, **Python**
+- 🌱 I’m currently using **Rust**, **Python**
 
 - 📫 How to reach me **Telegram: @ultradesu**
