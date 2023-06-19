@@ -1,6 +1,6 @@
 <h1 align="center">Hello, ultradesu desu!</h1>
-<h3 align="center">System Engineer from Russia, Moscow.</h3>
-<h4 align="center">Keen on Linux, Free Software, System Engineering and Programming.</h3>
+<h3 align="center">System Engineer.</h3>
+<h4 align="center">Keen on Linux, Free Software, System Engineering and Bad Programming.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=house-of-vanity&label=Visitors&color=0e75b6&style=flat-square" alt="house-of-vanity" /> </p>
 
