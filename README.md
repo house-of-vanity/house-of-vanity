@@ -6,8 +6,8 @@
 
 <a href="https://btwiusearch.net/">My small blog</a>
 
-- 🔭 I’m currently working on [DesuBot](https://github.com/house-of-vanity/desubot), [Wireguard-Peer-Manager](https://github.com/house-of-vanity/Wireguard-Peer-Manager), [Gaspar](https://github.com/house-of-vanity/gaspar)
+- 🔭 I’m currently working on [Rexec](https://github.com/house-of-vanity/rexec), [DesuBot](https://github.com/house-of-vanity/desubot), [Wireguard-Peer-Manager](https://github.com/house-of-vanity/Wireguard-Peer-Manager), [Gaspar](https://github.com/house-of-vanity/gaspar)
 
 - 🌱 I’m currently using **Rust**, **Python**
 
-- 📫 How to reach me **Telegram: @ultradesu**
+- 📫 How to reach me **Telegram: [Rexec](tg:@ultradesu)**
