@@ -10,4 +10,4 @@
 
 - 🌱 I’m currently using **Rust**, **Python**
 
-- 📫 How to reach me **Telegram: [Rexec](tg:@ultradesu)**
+- 📫 How to reach me **Telegram:** [@ultradesu](tg:@ultradesu)
