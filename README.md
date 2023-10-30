@@ -1,4 +1,3 @@
-<h1 align="center">Hello, ultradesu desu!</h1>
 <h3 align="center">System Engineer</h3>
 <h4 align="center">Keen on Linux, Free Software, System Engineering and Bad Programming</h3>
 
