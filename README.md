@@ -5,7 +5,7 @@
 
 <a href="https://btwiusearch.net/">My notes</a>
 
-- 🔭 I’m currently working on [Rexec](https://github.com/house-of-vanity/rexec), [DesuBot](https://github.com/house-of-vanity/desubot), [Wireguard-Peer-Manager](https://github.com/house-of-vanity/Wireguard-Peer-Manager), [OutFleet](https://github.com/house-of-vanity/OutFleet)
+- 🔭 I’m currently working on [OutFleet](https://github.com/house-of-vanity/OutFleet), [Rexec](https://github.com/house-of-vanity/rexec), [DesuBot](https://github.com/house-of-vanity/desubot)
 
 - 🌱 I’m currently using **Rust**, **Python**
 
